@@ -1,10 +1,10 @@
-# Documentation for: DOC System
+# Documentation for: DOC System ,Daniel
 
 ---
 
-A DOC EXAMPLE FOR TESTING CHANGES IN GIT
+A DOC EXAMPLE FOR TESTING CHANGES IN GIT MADE BY ME
 
-test of lower case 
+test of lower case a new text
 
 ---
 
